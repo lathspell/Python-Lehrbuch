@@ -40,21 +40,21 @@ Dieses Dokument hält alle strukturellen und inhaltlichen Entscheidungen für da
   |   ├── 4.3 Module und Importe.md
   |   ├── ...
   ├── Übungen/                # Alle Übungen aller Kapitel
-  │   ├── Übung 1.1-1.py      # Aufgabenstellung als Kommentar am Anfang
-  │   ├── Übung 1.1-2.py
+  │   ├── Übung_1.1-1.py      # Aufgabenstellung als Kommentar am Anfang
+  │   ├── Übung_1.1-2.py
   │   └── ...
   └── Lösungen/               # Alle Lösungen aller Kapitel
-      ├── Lösung 1.1-1.py
-      ├── Lösung 1.1-2.py
+      ├── Lösung_1.1-1.py
+      ├── Lösung_1.1-2.py
       └── ...
   ```
 
 ### 2.2 Benennungskonventionen
 
 - **Verzeichnisse und Dateien:** Leerzeichen statt Unterstriche (z. B. `1.1 Variablen und Datentypen.md`).
-- **Übungen:** Als Python-Dateien im Format `Übung K.M-N.py` (z. B. `Übung 1.1-1.py`, `Übung 1.1-2.py`) in einem gemeinsamen `Übungen`-Ordner im Toplevel.
+- **Übungen:** Als Python-Dateien im Format `Übung_K.M-N.py` (z. B. `Übung_1.1-1.py`, `Übung_1.1-2.py`) in einem gemeinsamen `Übungen`-Ordner im Toplevel.
   - Die **Aufgabenstellung** steht als **Kommentar am Anfang der Datei**.
-- **Lösungen:** Als Python-Dateien im Format `Lösung K.M-N.py` (z. B. `Lösung 1.1-1.py`) in einem gemeinsamen `Lösungen`-Ordner im Toplevel.
+- **Lösungen:** Als Python-Dateien im Format `Lösung_K.M-N.py` (z. B. `Lösung_1.1-1.py`) in einem gemeinsamen `Lösungen`-Ordner im Toplevel.
 
 ---
 
