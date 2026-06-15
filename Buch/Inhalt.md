@@ -45,7 +45,7 @@ Diese Themen könnten später noch ergänzt werden:
 ## 📚 Anhang
 
 - [Glossar](Glossar.md) *(Erklärung von Fachbegriffen)*
-- [Übungen](Übungen/) *(Separates Verzeichnis mit allen Übungen)*
-- [Lösungen](Lösungen/) *(Separates Verzeichnis mit Lösungen zu allen Übungen)*
+- [Übungen](../Übungen/) *(Separates Verzeichnis mit allen Übungen)*
+- [Lösungen](../Lösungen/) *(Separates Verzeichnis mit Lösungen zu allen Übungen)*
 - [Python Sprachreferenz (englisch)](https://docs.python.org/3.14/reference/index.html)
 - [Ein anderes deutsches Python Tutorial](https://py-tutorial-de.readthedocs.io/de/)

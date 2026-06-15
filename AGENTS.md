@@ -22,34 +22,28 @@ Dieses Dokument hält alle strukturellen und inhaltlichen Entscheidungen für da
 ```text
   Python-Lehrbuch/
   ├── AGENTS.md               # Diese Datei
-  ├── Einleitung.md           # Vorwort (Ziel des Buches, Nutzungshinweise)
-  ├── Glossar.md              # Fachbegriffe
-  ├── Inhalt.md               # Inhaltsverzeichnis
-  ├── 1.1 Ein- und Ausgabe.md
-  ├── 1.2 Variablen und Datentypen.md
-  ├── 1.3 Grundlegende Operatoren.md
-  ├── 2.1 Bedingungen.md
-  ├── 2.2 Schleifen.md
-  ├── 2.3 Logische Operatoren und Verschachtelung.md
-  ├── 3.1 Listen.md
-  ├── 3.2 Tupel.md
-  ├── 3.3 Dictionaries.md
-  ├── 3.4 Sets.md
-  ├── 4.1 Funktionen definieren.md
-  ├── 4.2 Parameter und Rückgabewerte.md
-  ├── 4.3 Module und Importe.md
-  ├── Ausblick/               # Nur namentliche Erwähnung (kein vertiefter Inhalt)
-  │   ├── Fehlerbehandlung.md
-  │   ├── Dateioperationen.md
-  │   ├── OOP.md
-  │   ├── Bibliotheken.md
-  │   ├── Projekte.md
-  │   └── Best Practices.md
-  ├── Übungen/               # Alle Übungen aller Kapitel
+  ├── Buch/
+  |   ├── Glossar.md              # Fachbegriffe
+  |   ├── Inhalt.md               # Inhaltsverzeichnis
+  |   ├── 1.1 Ein- und Ausgabe.md
+  |   ├── 1.2 Variablen und Datentypen.md
+  |   ├── 1.3 Grundlegende Operatoren.md
+  |   ├── 2.1 Bedingungen.md
+  |   ├── 2.2 Schleifen.md
+  |   ├── 2.3 Logische Operatoren und Verschachtelung.md
+  |   ├── 3.1 Listen.md
+  |   ├── 3.2 Tupel.md
+  |   ├── 3.3 Dictionaries.md
+  |   ├── 3.4 Sets.md
+  |   ├── 4.1 Funktionen definieren.md
+  |   ├── 4.2 Parameter und Rückgabewerte.md
+  |   ├── 4.3 Module und Importe.md
+  |   ├── ...
+  ├── Übungen/                # Alle Übungen aller Kapitel
   │   ├── Übung 1.1-1.py      # Aufgabenstellung als Kommentar am Anfang
   │   ├── Übung 1.1-2.py
   │   └── ...
-  └── Lösungen/              # Alle Lösungen aller Kapitel
+  └── Lösungen/               # Alle Lösungen aller Kapitel
       ├── Lösung 1.1-1.py
       ├── Lösung 1.1-2.py
       └── ...
