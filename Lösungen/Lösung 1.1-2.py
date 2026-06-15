@@ -1,0 +1,13 @@
+# Übung 1.1-2: Mehrere Ausgaben
+# 
+# Schreibe ein Programm, das drei verschiedene Sätze mit print() ausgibt.
+#
+# Beispiel-Ausgabe:
+# Hallo
+# Wie geht es dir?
+# Schönes Wetter heute!
+
+# Lösung:
+print("Hallo")
+print("Wie geht es dir?")
+print("Schönes Wetter heute!")
